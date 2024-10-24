@@ -1,0 +1,9 @@
+cd C:\
+
+git clone https://github.com/Mahanteshprabhu/Hotel_Management.git
+
+cd C:\Hotel_Management
+
+javac Main.java
+
+java Main
