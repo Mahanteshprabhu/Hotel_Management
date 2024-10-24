@@ -5,6 +5,7 @@ Room Booking: Managing four different types of rooms, ensuring seamless booking 
 Food Ordering: Allowing guests to order food, which is linked directly to their room booking.
 Room Unbooking: Simplified unbooking process for smooth check-outs.
 Billing: Automatically generating detailed bills based on room charges and food orders.
+
 Additional Features:
 Room Features & Availability: Easily view room types, their specific features, and availability at any given time.
 Menu-Driven Interface: The program operates through a user-friendly menu, ensuring that it runs continuously until the user chooses to exit.
